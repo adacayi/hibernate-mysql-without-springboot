@@ -1,0 +1,6 @@
+com\sanver\trials\hibernate_del\model\Employee1.class
+com\sanver\trials\hibernate_del\util\HibernateUtil.class
+com\sanver\trials\hibernate_del\HibernateAnnotationMain.class
+com\sanver\trials\hibernate_del\HibernateJavaConfigMain.class
+com\sanver\trials\hibernate_del\model\Employee.class
+com\sanver\trials\hibernate_del\HibernateMain.class
